@@ -1,8 +1,8 @@
 OUTPUTS
 
-Activity-3_Python-Plot.py ![Screenshot 2024-05-11 164205](https://github.com/RizaWong/bayesianStatistics_Activities2024/assets/168974007/2727f5a0-49bf-4c48-91e0-0a3483a052f6)
+Activity3_Python-Plot.py ![Screenshot 2024-05-11 164205](https://github.com/RizaWong/bayesianStatistics_Activities2024/assets/168974007/2727f5a0-49bf-4c48-91e0-0a3483a052f6)
 
-Activity-3_Sample-Problem.py ![Screenshot 2024-05-11 164727](https://github.com/RizaWong/bayesianStatistics_Activities2024/assets/168974007/78d3673b-4505-403f-9641-67dac6fe3acb)
+Activity3_Sample-Problem.py ![Screenshot 2024-05-11 164727](https://github.com/RizaWong/bayesianStatistics_Activities2024/assets/168974007/78d3673b-4505-403f-9641-67dac6fe3acb)
 
 Activity5_Prior-Script1.py ![Screenshot 2024-05-11 164338](https://github.com/RizaWong/bayesianStatistics_Activities2024/assets/168974007/f5720816-20a1-4d8f-8e68-6b3eb2c91f7f)
 
